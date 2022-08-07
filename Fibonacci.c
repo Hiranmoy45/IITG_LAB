@@ -12,13 +12,6 @@ int main (){
 		printf("\t");
 
 	}
-
-
-
-
-
-
-
 return 0;
 
 }
